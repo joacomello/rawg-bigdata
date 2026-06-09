@@ -1,0 +1,20 @@
+genre_id,name,slug,games_count
+4,Action,action,191736
+5,RPG,role-playing-games-rpg,62037
+2,Shooter,shooter,59641
+7,Puzzle,puzzle,97450
+3,Adventure,adventure,152067
+51,Indie,indie,86623
+83,Platformer,platformer,100939
+59,Massively Multiplayer,massively-multiplayer,4258
+15,Sports,sports,22814
+1,Racing,racing,25839
+14,Simulation,simulation,77015
+11,Arcade,arcade,22712
+40,Casual,casual,67779
+10,Strategy,strategy,62479
+6,Fighting,fighting,11820
+19,Family,family,5434
+34,Educational,educational,15728
+17,Card,card,4550
+28,Board Games,board-games,8410

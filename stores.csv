@@ -1,0 +1,11 @@
+store_id,name,slug,domain
+1,Steam,steam,store.steampowered.com
+3,PlayStation Store,playstation-store,store.playstation.com
+11,Epic Games,epic-games,epicgames.com
+7,Xbox 360 Store,xbox360,marketplace.xbox.com
+2,Xbox Store,xbox-store,microsoft.com
+5,GOG,gog,gog.com
+6,Nintendo Store,nintendo,nintendo.com
+8,Google Play,google-play,play.google.com
+4,App Store,apple-appstore,apps.apple.com
+9,itch.io,itch,itch.io
